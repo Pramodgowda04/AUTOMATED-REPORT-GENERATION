@@ -1,0 +1,15 @@
+Name and Contact Details: Full name, phone number, email address, LinkedIn profile, and optionally address.
+
+Objective or Summary: A brief statement highlighting career goals or a summary of professional background.
+
+Education: List of degrees obtained, institutions, graduation years, and relevant honors.
+
+Work Experience: Detailed employment history including job titles, company names, dates of employment, and key responsibilities and achievements.
+
+Skills: Technical and soft skills pertinent to the job.
+
+Projects: Important projects, with description, technologies used, and outcomes or impact.
+
+Certifications and Trainings: Relevant certifications, courses attended.
+
+Awards and Recognitions: Professional awards or accolades.
